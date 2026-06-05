@@ -5,4 +5,4 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "tizi"				#KV数据库id
+id = "c93b7b364e204e2e847ad2e9d1b9e5fd"				#KV数据库id
